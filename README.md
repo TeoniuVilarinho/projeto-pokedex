@@ -6,11 +6,11 @@
 
 - Screnshot do site versão desktop
 
-    <img src="./src/design/projeto-pokedex.png" alt="ScreenShot do site versão desktop">
+    <img src="./src/design/projeto-pokedex-desktop.png" alt="ScreenShot do site versão desktop">
 
 - Screnshot do site versão mobile
 
-    <img src="./src/design/projeto-pokedex.png" alt="ScreenShot do site versão mobile">
+    <img src="./src/design/projeto-pokedex-mobile.png" alt="ScreenShot do site versão mobile">
 
 ## Tecnologias utilizadas
 
